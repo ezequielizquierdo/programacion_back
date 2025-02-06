@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ezequielizquierdo/programacion_back#readme",
   "dependencies": {
-    "axios": "^1.7.9"
+    "axios": "^1.7.9",
+    "moment": "^2.30.1"
   }
 }
